@@ -43,4 +43,4 @@
     <a href="https://trakteer.id/takeru-kageyuki/tip" title="Support me on Trakteer"><img src="assets/images/trakteer.png" alt="Support me on Trakteer" height="40"></a>
     <a href="https://ko-fi.com/takeru_kageyuki" title="Support me on Ko-fi"><img src="assets/images/ko-fi.png" alt="Support me on Ko-fi" height="40"></a>
 </p>
-<p>:fallen_leaf: Please respect my hard work, if you use any parts of this module don't forget to give proper credit.</p>
+<p>:fallen_leaf: Please respect my hard work, if you use any parts of this module don't forget to give proper credit. </p>
